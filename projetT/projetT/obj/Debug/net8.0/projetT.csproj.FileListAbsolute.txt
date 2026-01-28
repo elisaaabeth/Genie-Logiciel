@@ -1,0 +1,15 @@
+C:\Users\elisa\Desktop\GL\projetT\projetT\bin\Debug\net8.0\projetT.exe
+C:\Users\elisa\Desktop\GL\projetT\projetT\bin\Debug\net8.0\projetT.deps.json
+C:\Users\elisa\Desktop\GL\projetT\projetT\bin\Debug\net8.0\projetT.runtimeconfig.json
+C:\Users\elisa\Desktop\GL\projetT\projetT\bin\Debug\net8.0\projetT.dll
+C:\Users\elisa\Desktop\GL\projetT\projetT\bin\Debug\net8.0\projetT.pdb
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.AssemblyInfoInputs.cache
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.AssemblyInfo.cs
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.sourcelink.json
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.dll
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\refint\projetT.dll
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.pdb
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\projetT.genruntimeconfig.cache
+C:\Users\elisa\Desktop\GL\projetT\projetT\obj\Debug\net8.0\ref\projetT.dll
